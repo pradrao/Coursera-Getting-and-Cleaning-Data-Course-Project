@@ -4,8 +4,7 @@ Program Name: run_analysis
 
 ----------------------------------------------------------------
 Script Objective: Is to create a tidy data based on input files
-and instructions mentioned in the Getting and Cleaning Data final
-week course project
+and instructions mentioned in the Getting and Cleaning Data final week course project
 ----------------------------------------------------------------
 High Level Program Logic:
 1. Read the files downloaded in the working directory into R 
@@ -33,7 +32,6 @@ Input Files:
    section
 7. subject_train(relevant to point 3 and 5 of previous section)
 8. subject_train(relevant to point 3 and 5 of previous section)
-8. subject_test(relevant to point 3 and 5 of previous section)
 ----------------------------------------------------------------------
 Output File:
 tidydata.txt stored in the working directory
