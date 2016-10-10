@@ -16,6 +16,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The run_analysis.R script performs the following steps to clean the data:
 Note: The actual script contains comments at appropriate places for code readability
+
 1. Read the files downloaded in the working directory into R 
 
 2. Rename Variables to their corresponding descriptions from Features 
