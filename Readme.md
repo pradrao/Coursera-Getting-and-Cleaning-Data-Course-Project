@@ -24,19 +24,28 @@ High Level Program Logic:
 7. Extract columns containing mean and standard deviation from the merged files
 
 8. Tidy the above resultant file and write to directory
+
 ---------------------------------------------------------------------
 Input Files:
 1. Features.txt (as input for logic in point 2 of the previous section
+
 2. activity_labels.txt(as input for logic in point 4 of the previous 
    section
+   
 3. X_train(training data set -relevant to point 1 of the previous section
+
 4. y_train(training data set -relevant to point 3 and 5 of the previous 
    section
+   
 5. X_test(test data set -relevant to point 1 of the previous section
+
 6. y_test(test data set -relevant to point 3 and 5 of the previous
    section
+   
 7. subject_train(relevant to point 3 and 5 of previous section)
-8. subject_train(relevant to point 3 and 5 of previous section)
+
+8. subject_test(relevant to point 3 and 5 of previous section)
+
 ----------------------------------------------------------------------
 Output File:
 tidydata.txt stored in the working directory
